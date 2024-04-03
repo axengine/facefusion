@@ -7,6 +7,10 @@ FaceFusion
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 
+NewFeature
+-------
+use wav2lip instead of wav2lip_gan.wav2lip model is easier to fine-tune.
+
 Preview
 -------
 
